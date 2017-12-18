@@ -1,18 +1,18 @@
 /*:
  # Question 5
  
- Imagine that you are trying to write an app that identifies who an LCS teacher is based on a series of questions.
+ Imagine that you are trying to write an app that identifies an independent school based on a series of questions.
  
  The questions will be answered for you with either `true` or `false` and no other possible response.
  
  Three constants have been created below with certain values.
  
- Write an `if` statement that prints "Must be McRae!" when the values of the constants would seem to suggest the person is Mr. McRae, or otherwise prints "Hmm, need more data to be sure."
+ Write an `if` statement that prints "Must be Lakefield!" when the values of the constants would seem to suggest the school is Lakefield, or otherwise prints "Hmm, need more data to be sure."
  
  */
-let teachesPhysics = false
-let isMale = true
-let veryPatient = true
+let hasWaterfrontOnLake = true
+let hasBoysAndGirlsAttending = false
+let hasGreenAndWhiteBuildings = true
 
 // Answer question 5 below
 
