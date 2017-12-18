@@ -7,7 +7,7 @@
  
  ![ironic-t-shirt](ironic-t-shirt.jpg "An ironic t-shirt")
  
- You want to keep track of how well each t-shirt design that you come up sells.
+ You want to keep track of the sales numbers for each t-shirt design that you come up with.
  
  Create and initialize a variable or constant (whatever is more appropriate), using a reasonable data type, to represent each of these items:
  
