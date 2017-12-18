@@ -7,13 +7,15 @@
  
  Create a variable called `currentDistanceRun` of type `Double`.
  
- Write a **single** if statement with multiple branches that provides feedback according to the following specifications:
+ Write a **single** `if-else-if-else` statement (you may use multiple `else if` branches) that provides feedback according to the following specifications:
  
- * when the person has run less than 10% of their target distance, print "Great start, keep it up!"
+ * when the person has run less than 15% of their target distance, print "Great start, keep it up!"
  * when the person has run between 45% and up to but not including 50% of their target distance, print "You're almost at halfway!"
  * when the person has run exactly half their target distance, print "Halfway there!"
- * when the person has run more than 90% of their target distance but not the entire target distance, print "Nearly done!"
+ * when the person has run more than 88% of their target distance but **not** the entire target distance, print "Nearly done!"
  * when the person has run their entire target distance, print "GREAT JOB! You're finished the run."
+
+ **NOTE**: You need to select values for `targetDistance` and `currentDistanceRun`. You may wish to adjust these values a few times to test different branches of your `if` statement.
  
  */
 // Answer question 6 below
