@@ -21,7 +21,12 @@
  
  */
 // Answer question 4 below
-
+var moneyIHaveEarned : Double = 0
+moneyIHaveEarned += 12
+moneyIHaveEarned -= 7
+moneyIHaveEarned *= 3
+moneyIHaveEarned  = (50 * 11)
+moneyIHaveEarned = 5.50
 /*:
  ## Now share your understanding
  

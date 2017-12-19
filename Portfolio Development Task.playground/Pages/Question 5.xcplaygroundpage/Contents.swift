@@ -15,6 +15,7 @@ let hasBoysAndGirlsAttending = false
 let hasGreenAndWhiteBuildings = true
 
 // Answer question 5 below
+if hasWaterfrontOnLake == true
 
 
 /*:
