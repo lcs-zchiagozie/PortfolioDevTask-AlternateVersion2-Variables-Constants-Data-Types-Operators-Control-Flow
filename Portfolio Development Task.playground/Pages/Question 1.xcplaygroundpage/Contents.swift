@@ -15,9 +15,9 @@
  
  */
 // Answer question 1 below
-var whatthejobpaysmeperhourinhongkongdollars = 40.0
-var hoursworkedoverbreak = 37.5
-let e = whatthejobpaysmeperhourinhongkongdollars * hoursworkedoverbreak
+var payperHourInHongKongDollars = 40.0
+var hoursWorkedOverBreak = 37.5
+let e = payperHourInHongKongDollars * hoursWorkedOverBreak
 let exchangerate = 0.16 //  1 Hong Kong dollar currently equals 0.16 of a Canadian dollar
 let cda = e * exchangerate
 
