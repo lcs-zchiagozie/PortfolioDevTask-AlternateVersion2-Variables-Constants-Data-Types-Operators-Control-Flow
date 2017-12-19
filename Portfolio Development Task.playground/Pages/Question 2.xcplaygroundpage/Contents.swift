@@ -17,7 +17,9 @@
  
  */
 // Answer question 2 below
-
+var numberOfTshirtsSold = 50
+let tshirtDesign = "Baraka"
+var suggestedSellingPricePerTshirt = 25
 /*:
  ## Now share your understanding
  
