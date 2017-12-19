@@ -21,7 +21,12 @@
  
  */
 // Answer question 3 below
-
+var headShavedCount = 12
+var runTrainingCount = 73
+let hairDonationAmount = Double (headShavedCount) * 55.75
+let runTrainingDonationAmount =  Double (runTrainingCount) * 15.35
+var totalDonationAmount = hairDonationAmount + runTrainingDonationAmount
+print(" I used the Int data type for headShavedCount and runTrainingCount becasue they were  integers. However when i needed to find the hairDonationAmount and totalDonationAmount i turned the two vars into doubles as you can not create an expression with two different data types. The totalDonationAmount is a double becasuse its a decimal. ")
 /*:
  ## Now share your understanding
  
