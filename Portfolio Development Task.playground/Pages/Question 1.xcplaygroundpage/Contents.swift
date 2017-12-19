@@ -18,7 +18,7 @@
 var whatthejobpaysmeperhourinhongkongdollars = 40.0
 var hoursworkedoverbreak = 37.5
 let e = whatthejobpaysmeperhourinhongkongdollars * hoursworkedoverbreak
-let exchangerate = 0.16 // 1 Hong Kong dollar currently equals 0.16 of a Canadian dollar
+let exchangerate = 0.16 //  1 Hong Kong dollar currently equals 0.16 of a Canadian dollar
 let cda = e * exchangerate
 
 /*:
